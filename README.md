@@ -12,7 +12,7 @@
 -->
 # About me
 
-🔭 I'm currently developing ![Backup-Zen](https://img.shields.io/badge/db-backup-blue), a solution that simplifies deploying automated backup cronjobs on your Kubernetes cluster using Helm.
+🔭 I'm currently developing [**Backup-Zen**](https://github.com/mrezachalak/backup-zen), a solution that simplifies deploying automated backup cronjobs on your Kubernetes cluster using Helm.
 
 ![](https://komarev.com/ghpvc/?username=mrezachalak)
 
