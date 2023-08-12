@@ -34,15 +34,15 @@ Expertise: Micro Service Management, CI/CD automation, Build/Release Management,
 ## Core Competencies and Skills
 
 ### Skills:
-- Infrastructure as Code: Bash, Ansible, Terraform
-- Containerization: containerd, Docker, Kubernetes, Helm
-- Monitoring and Logging: Prometheus, Fluentd, Grafana, ELK Stack
-- Cloud | On-premises Infrastructure: AWS, VMWare VSphere
-- CI | CD | GitOps: Gitlab, Github, Jenkins, Bamboo, ArgoCD
-- Programming Languages: Python, Bash
-- Database | storages: PostgreSQL, MySQL, Neo4J, MongoDB, Longhorn
-- Web Servers: Nginx, Apache, Wildfly, IIS
-- Other:  MinIO, Kafka, Redis, pfSense Firewall
+- **Infrastructure as Code**:             Bash, Ansible, Terraform
+- **Containerization**:                   containerd, Docker, Kubernetes, Helm
+- **Monitoring and Logging**:             Prometheus, Fluentd, Grafana, ELK Stack
+- **Cloud | On-premises Infrastructure**: AWS, VMWare VSphere
+- **CI | CD | GitOps**:                   Gitlab, Github, Jenkins, Bamboo, ArgoCD
+- **Programming Languages**:              Python, Bash
+- **Database | storages**:                PostgreSQL, MySQL, Neo4J, MongoDB, Longhorn
+- **Web Servers**:                        Nginx, Apache, Wildfly, IIS
+- **Other**:                              MinIO, Kafka, Redis, pfSense Firewall
 
 
 
