@@ -28,7 +28,7 @@ Expertise: Micro Service Management, CI/CD automation, Build/Release Management,
 ### find me here
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrezachalak)
-[![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:mrezachalak.dev@gmail.com)
+[![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:rezachalak.dev@gmail.com)
 
 
 ## Core Competencies and Skills
