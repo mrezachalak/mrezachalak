@@ -48,10 +48,12 @@ Expertise: Micro Service Management, CI/CD automation, Build/Release Management,
 
 ### Cloud Skills:
 
-- ![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon&logoColor=yello)
+- ![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazon&logoColor=yellow)
 
 ### Databases:
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
 ![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=336791)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?&logo=elasticsearch&logoColor=05014A)
+![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=prometheus&logoColor=FFA500)
