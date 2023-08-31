@@ -1,5 +1,5 @@
 <!--
-**mrezachalak/mrezachalak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rezachalak/rezachalak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,22 +12,22 @@
 -->
 # About me
 
-🔭 I'm currently developing [**Backup-Zen**](https://github.com/mrezachalak/backup-zen), a solution that simplifies deploying automated backup cronjobs on your Kubernetes cluster using Helm.
+🔭 I'm currently developing [**Backup-Zen**](https://github.com/rezachalak/backup-zen), a solution that simplifies deploying automated backup cronjobs on your Kubernetes cluster using Helm.
 
-![](https://komarev.com/ghpvc/?username=mrezachalak)
+![](https://komarev.com/ghpvc/?username=rezachalak)
 
 DevOps engineer, DevSecOps engineer, IaC developer with over 5 years of experience in the software industry.
 
 Expertise: Micro Service Management, CI/CD automation, Build/Release Management, Infrastructure as Code, Configuration Management, Cloud Architecture, Data warehousing, Application Containerize and Orchestrates with Kubernetes and Python.
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=ahmadalibagheri&include_all_commits=true&theme=merko) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mrezachalak&show_icons=true&theme=dark"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=rezachalak&show_icons=true&theme=dark"/> 
 
 
 
 ### find me here
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrezachalak)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezachalak)
 [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:rezachalak.dev@gmail.com)
 
 
