@@ -12,7 +12,8 @@
 -->
 # About me
 
-🔭 I'm currently developing [**Backup-Zen**](https://github.com/rezachalak/backup-zen), a solution that simplifies deploying automated backup cronjobs on your Kubernetes cluster using Helm.
+🔭 I'm currently developing [**ArgoPress**](https://github.com/rezachalak/ArgoPress), A GitOps-powered AWS Infrastructure, Kubernetes with kubespray, and Helm WordPress Deployment.
+<--🔭 I'm currently developing [**Backup-Zen**](https://github.com/rezachalak/backup-zen), a solution that simplifies deploying automated backup cronjobs on your Kubernetes cluster using Helm. -->
 
 ![](https://komarev.com/ghpvc/?username=rezachalak)
 
