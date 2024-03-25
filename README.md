@@ -14,6 +14,7 @@
 <!--🔭 I'm currently developing [**Backup-Zen**](https://github.com/rezachalak/backup-zen), a solution that simplifies deploying automated backup cronjobs on your Kubernetes cluster using Helm. -->
 
 ![](https://komarev.com/ghpvc/?username=rezachalak)
+
 <img src="https://github-readme-stats.vercel.app/api?username=rezachalak&show_icons=true&theme=dark"/> 
 
 
